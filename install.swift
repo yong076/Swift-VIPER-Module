@@ -4,6 +4,8 @@
 //
 //  Created by Juanpe Catalán on 17/02/2017.
 //  Copyright © 2017 Juanpe Catalán. All rights reserved.
+//  Forked By Daniel, Edited By Daniel. on 11/06/2018
+//  For BitBerry Viper Code Generator.
 //
 
 import Foundation

@@ -11,9 +11,9 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>SwiftViperModule</string>
+	<string>SwiftViperModule-Daniel</string>
 	<key>Description</key>
-	<string>Basic Swift VIPER module template. Creates View, Interactor, Presenter, Router with protocols.</string>
+	<string>Basic Swift VIPER module template. Creates View, Interactor, Presenter, Router with protocols. View WithOut StoryBoard</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -60,6 +60,6 @@
 		</dict>
 	</array>
 	<key>Template Author</key>
-	<string>Juanpe Catalán - @JuanpeCMiOS</string>
+	<string>Daniel Kim @ RootOne</string>
 </dict>
 </plist>
